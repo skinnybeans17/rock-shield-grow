@@ -1,5 +1,5 @@
 const imageArray = [
-    "../img/shield-win.png",
+    "../img/sword-lose.png",
     "../img/sword-win.png",
     "../img/sword-tie.png",
 ];
